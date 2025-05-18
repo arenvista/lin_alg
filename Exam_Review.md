@@ -20,6 +20,8 @@ tags: []
 # Eigenvectors & Eigenvalues
 [[1747600851-SZZI|Eigenvectors & Eigenvalues]]
 # Orthogonality
+[[1747602556-LBQC|Orthogonality]]
+[[1747603307-SQNM|Orthogonal Compliments]]
 ## Othogonal Vectors and Subspaces
 ## Projections onto Subspaces
 ## Othogonal Matrices & Gram-Schmidt
