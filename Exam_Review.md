@@ -21,6 +21,7 @@ tags: []
 [[1747600851-SZZI|Eigenvectors & Eigenvalues]]
 # Orthogonality
 [[1747602556-LBQC|Orthogonality]]
+[[1747604639-LGYR|Orthogonal Sets]]
 [[1747603307-SQNM|Orthogonal Compliments]]
 ## Othogonal Vectors and Subspaces
 ## Projections onto Subspaces
