@@ -2,7 +2,7 @@
   "version": "3.13.1",
   "templates": {
     "common": {
-      "main": "title",
+      "main": "aliases",
       "fallback": "fallback_title"
     }
   },
@@ -56,7 +56,7 @@
     "graph": {
       "enabled": true,
       "templates": {
-        "main": "",
+        "main": "aliases",
         "fallback": ""
       }
     },

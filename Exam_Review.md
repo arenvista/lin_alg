@@ -6,22 +6,21 @@ tags: []
 # Geometry of Linear Equations 
 # Elimination w/ Matricies
 # Solving Ax=b → REF
-
+# Independence, Basis, and Dims
 # Invertibility
-- [ ] IMT & Implications
-- [ ] Defn. [invertibility](lin_alg/1747516147-NRPK.md)]
+- [[1747595505-MTSV|Invertible Matrix Theorm (IMT)]]
 # Linear Transformations 
-- [ ] Rotations 
-- [ ] Reflections
-
 # Vector Spaces & Subspace
-## Null Space
-- [ ] What is a nullspace
-## Row Space
-## Col Space
+- [[1747596143-VBQF|Vector Space]]
+[[1747596665-XUGT|Null Space]]
+[[1747597145-XCUN|Row Space]]
+[[1747597252-FFIU|Col Space]]
+# Determinants
+[[1747598689-YSIE|Determinants]]
 # Eigenvectors & Eigenvalues
-- [ ] Given matrix A, diagonalize the matrix
+[[1747600851-SZZI|Eigenvectors & Eigenvalues]]
 # Orthogonality
-- [ ] $Nullspace$ is orthogonal to what?
-- [ ] $Nullspace^T$ is orthogonal to what?
-- [ ] How to construct a orthogonal basis
+## Othogonal Vectors and Subspaces
+## Projections onto Subspaces
+## Othogonal Matrices & Gram-Schmidt
+## Projection onto Subspaces
