@@ -32,10 +32,10 @@
       }
     },
     "explorer": {
-      "enabled": false,
-      "sort": false,
+      "enabled": true,
+      "sort": true,
       "templates": {
-        "main": "",
+        "main": "aliases",
         "fallback": ""
       }
     },
@@ -70,7 +70,7 @@
     "search": {
       "enabled": true,
       "templates": {
-        "main": "",
+        "main": "aliases",
         "fallback": ""
       }
     },
